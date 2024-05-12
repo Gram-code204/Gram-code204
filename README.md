@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gram-code204
+- 👋 Hi, I’m @Gram
 - 👀 I’m interested in finance,economics,banking, Investment and everythig about markets 
 - 🌱 I’m currently learning Excel, asset management, powerBi and R to Gulu level.
 - 💞️ I’m looking to collaborate on Advanced excel, and data analysis
