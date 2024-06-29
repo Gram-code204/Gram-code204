@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gram
 - 👀 I’m interested in finance,economics,banking, Investment and everythig about markets 
-- 🌱 I’m currently learning Excel, asset management, powerBi and R to Gulu level.
+- 🌱 I’m currently learning Excel, asset management, powerBi and R .
 - 💞️ I’m looking to collaborate on Advanced excel, and data analysis
 - 📫 How to reach me linkedin, Grace Gahizi Umutoni
 - 😄 Pronouns: She\her 
